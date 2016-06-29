@@ -1,0 +1,6 @@
+{
+  "name": "Light React App",
+  "description": "App build with React, Node.js, PostgresDB and Webpack",
+  "repository": "https://github.com/maliknur/light-react-app",
+  "addons": ["heroku-postgresql:hobby-dev"]
+}
